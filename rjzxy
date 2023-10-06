@@ -12,6 +12,8 @@
 # x=torch.tensor(1)
 # print(rj.forward(x))
 
+
+
 # import torch
 # device=torch.device('cuda')
 # my_tensor=torch.tensor([[1,2,3],[4,5,6]],dtype=torch.float32,device=device,requires_grad=True)
@@ -42,6 +44,8 @@
 # import numpy as np
 # np_array = np.zeros((5,5))
 # tensor = torch.from_numpy(np_array)
+
+
 
 # import numpy as np
 # import torch
